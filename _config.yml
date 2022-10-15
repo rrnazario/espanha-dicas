@@ -2,7 +2,11 @@ theme: minima
 minima:
   date_format: "%b %-d, %Y"
 
-title: Espanha Dicas - Um repositório para ajudar brasileiros na Espanha
+author:
+  name: rrnazario
+  email: rrnazario@gmail.com
+
+title: Espanha Dicas
 
 description: > 
   Este repositório tem como propósito reunir as dicas para brasileiros 
@@ -17,5 +21,3 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
