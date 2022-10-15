@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  date_format: "%b %-d, %Y"
 
 title: Espanha Dicas - Um repositório para ajudar brasileiros na Espanha
 
