@@ -1,15 +1,19 @@
 theme: minima
+
+title: Espanha Dicas - Um repositório para ajudar brasileiros na Espanha
+
+description: > 
+  Este repositório tem como propósito reunir as dicas para brasileiros 
+  vivendo na Espanha 🇪🇸
+
+social_links:
+  telegram: t.me/rrnazario
+  
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
   - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
