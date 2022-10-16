@@ -20,7 +20,7 @@ layout: post
     - Pagar a taxa do serviço (para carteira B brasileira, o custo é 28,87€). Pode pagar na hora (com cartão apenas) ou pelo formulário 791 em qualquer caixa eletrônico.
     - Se você tem carteira desde antes de março de 2009 ([acordo Espanha-Brasil](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14617)), pule esse passo. Se você fez baixa consular, também pule esse passo, mas leve a baixa consular. Senão, terá que conseguir o historial de residência na Espanha. Para obter esse documento, você precisará:
         * Realizar um agendamento nesse [link](http://sede.administracionespublicas.gob.es/icpplus/index.html)
-        * Escolher a opção **"TRAMITES CUERPO NACIONAL DE POLICIA e depois: "CERTIFICADOS (DE RESIDENTE o NO RESIDENTE, CONCORDANCIA)"**
+        * Escolher a opção **"TRAMITES CUERPO NACIONAL DE POLICIA** e depois: **"CERTIFICADOS (DE RESIDENTE o NO RESIDENTE, CONCORDANCIA)"**
         * Preencher o restante dos dados
         * No dia agendado, levar os seguintes documentos:
             - EX15 preenchido. [Link](https://extranjeros.inclusion.gob.es/ficheros/Modelos_solicitudes/mod_solicitudes2/15-Formulario_NIE_y_certificados.pdf)
