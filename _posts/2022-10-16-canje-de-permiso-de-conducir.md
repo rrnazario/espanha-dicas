@@ -9,7 +9,7 @@ layout: post
 
 1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeapl.dgt.gob.es:7443/WEB_NCIT_CONSULTA/solicitarCita.faces).
 
-2. Consulte se o Brasil confirmou neste link. Quando a situação estiver **CONSTESTADA** está tudo certo para prosseguir.
+2. Consulte se o Brasil confirmou neste [link](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces). Quando a situação estiver **CONSTESTADA** está tudo certo para prosseguir.
 
 3. Documentos necessários (que pediram em Málaga):
     - TIE (original e cópia)
