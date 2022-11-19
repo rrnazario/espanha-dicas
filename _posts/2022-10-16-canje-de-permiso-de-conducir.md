@@ -33,4 +33,8 @@ layout: post
 
 5. A DGT recolherá sua CNH e te dará uma permissão temporária com duração de 3 meses. Com ela já vai poder dirigir, mostrando junto com o TIE/DNI até que a permanente chegue no seu endereço.
 
+## Outros links úteis
+
+- https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_certificado_residente.php
+
 ## Boa sorte!
