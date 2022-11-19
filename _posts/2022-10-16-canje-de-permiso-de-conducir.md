@@ -5,7 +5,7 @@ layout: post
 
 ## Passos a seguir
 
-** Última atualização: Janeiro 2022
+** Última atualização: Novembro 2022
 
 1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeapl.dgt.gob.es:7443/WEB_NCIT_CONSULTA/solicitarCita.faces).
 
@@ -19,7 +19,7 @@ layout: post
     - Levar preenchido o formulário do trâmite (baixe [aqui](https://f682c250-f058-4c35-96bd-fa6c1c1775c3.filesusr.com/ugd/d48811_a74148aeb4414e88beb73229fdd02d9a.pdf))
     - Pagar a taxa do serviço (para carteira B brasileira, o custo é 28,87€). Pode pagar na hora (com cartão apenas) ou pelo formulário 791 em qualquer caixa eletrônico.
     - Se você tem carteira desde antes de março de 2009 ([acordo Espanha-Brasil](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14617)), pule esse passo. Se você fez baixa consular, também pule esse passo, mas leve a baixa consular. Senão, terá que conseguir o historial de residência na Espanha. Para obter esse documento, você precisará:
-        * Realizar um agendamento nesse [link](http://sede.administracionespublicas.gob.es/icpplus/index.html)
+        * Realizar um agendamento nesse [link](https://icp.administracionelectronica.gob.es/icpplus/index.html)
         * Escolher a opção **"TRAMITES CUERPO NACIONAL DE POLICIA** e depois: **"CERTIFICADOS (DE RESIDENTE o NO RESIDENTE, CONCORDANCIA)"**
         * Preencher o restante dos dados
         * No dia agendado, levar os seguintes documentos:
