@@ -25,7 +25,7 @@ layout: post
         * No dia agendado, levar os seguintes documentos:
             - EX15 preenchido. [Link](https://extranjeros.inclusion.gob.es/ficheros/Modelos_solicitudes/mod_solicitudes2/15-Formulario_NIE_y_certificados.pdf)
             - Gerar e pagar o formulário 790 ([link](https://sede.policia.gob.es:38089/Tasa790_012/ImpresoRellenar)). Custa 7,90€ (Escolher a opção **"Certificados e informes emitidos a instancia del interesado"**)
-            - Levar original e cópia do TIE, do Passaporte e do Empadronamiento (só em caso de seu endereço do TIE ser **diferente** do atual)
+            - Levar original e cópia do TIE e do Passaporte. Levar cópia do Empadronamiento **só em caso do endereço que consta em seu TIE ser diferente do atual em que vive**.
             - Marcar **OUTRO** agendamento para buscar depois de uma semana aproximadamente ([link](http://sede.administracionespublicas.gob.es/icpplus/index.html)). Escolher a opção **"POLICIA. RECOGIDA DE CERTIFICADOS Y AUTORIZACION DE REGRESO**. Levar o TIE, passaporte e o comprovante que te darão no item anterior.
 
 
