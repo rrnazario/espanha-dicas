@@ -15,7 +15,7 @@ Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?i
 
 Para iOS há um outro aplicativo de igual eficácia. Basta buscar na Apple store por **CCSE** (eu mesmo só estudei por esse *genérico*).
 
-[+] Informações: https://examenes.cervantes.es/es/ccse/que-es
+[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
 
 ## Dicas para DELE A2
 
@@ -29,12 +29,12 @@ Essa é mais longa, mas também nada complicada. É dividida em 4 etapas:
 
 A dica é estudar os simulados oficiais e ver alguns canais no Youtube. Segue uma lista de ótimos canais pelos quais eu estudei:
 
-- https://www.youtube.com/@CCSEDELEA2
-- https://www.youtube.com/@InstitutoCervantesVideos
-- https://www.youtube.com/@aporelDELE
-- https://www.youtube.com/@examendelea2
+- [https://www.youtube.com/@CCSEDELEA2](https://www.youtube.com/@CCSEDELEA2)
+- [https://www.youtube.com/@InstitutoCervantesVideos](https://www.youtube.com/@InstitutoCervantesVideos)
+- [https://www.youtube.com/@aporelDELE](https://www.youtube.com/@aporelDELE)
+- [https://www.youtube.com/@examendelea2](https://www.youtube.com/@examendelea2)
 
 
-[+] Informações e materiais oficiais: https://examenes.cervantes.es/es/dele/examenes/a2
+[+] Informações e materiais oficiais: [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a2)
 
 ## Boa sorte!
