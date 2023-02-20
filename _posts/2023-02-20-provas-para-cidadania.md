@@ -30,11 +30,13 @@ Essa é mais longa, mas também nada complicada. É dividida em 4 etapas:
 
     Prova escrita é sempre escrever um e-mail tarefa 1, então é só praticar uns exemplos. Minha tarefa 2 tinha opção de falar de música e cantor que mais gostava ou de uma férias que gostaria de tirar.
 
-4. Prova de fala (~10 minutos)
+4. Prova de fala (~10 minutos). A dica é: **siga as instruções da prova e em ordem.**
     
-    Tarefa 1: Falar de 1 foto
+    Tarefa 1: Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
+    
+    Tarefa 2: Descrever uma foto. Lhe são dadas 2 para a escolha.
 
-    Tarefa 2: Opção de falar sobre vida profissional ou uma suposta viagem de férias.
+    Tarefa 3: Conversa com o examinador. 
 
 A dica é estudar os simulados oficiais e ver alguns canais no Youtube. Segue uma lista de ótimos canais pelos quais eu estudei:
 
