@@ -21,8 +21,6 @@ Quando alguém vem pra Espanha para ficar como turista até 90 dias pode ser que
 
 [Site para o agendamento](https://icp.administracionelectronica.gob.es/icpco/acInfo). Leia **atentamente** as instruções do site, pois podem ter havido mudanças na listagem de documentação.
 
-**IMPORTANTE**: Agendar somente na cidade onde você está empadronado.
-
 
 ### Documentos
 
@@ -35,8 +33,8 @@ Quando alguém vem pra Espanha para ficar como turista até 90 dias pode ser que
 - Cópia da página da foto do passaporte do solicitante
 - Cópia da página da foto dos passaportes dos convidados
 - Cópia do contrato de aluguel
-- "Nota simple de registro de la propiedad" (documento sobre o imóvel que o solicitante reside. Pode ser obtido em Málaga no seguinte endereço: "Registro
-Mercantil de Malaga", Calle Cerrojo 17, Malaga)
+- "Nota simple de registro de la propiedad" (documento sobre o imóvel que o solicitante reside). Pode ser obtido de duas formas:
+    - Presencialmente em Málaga no seguinte endereço: "Registro Mercantil de Malaga", Calle Cerrojo 17, Malaga - Online [nesse site](https://geoportal.registradores.org/). Para saber qual o cartório, utilize [essa outra ferramenta](https://geoportal.registradores.org/).
 - "Volante de empadronamiento colectivo" (não aceitam o individual)
 
 
