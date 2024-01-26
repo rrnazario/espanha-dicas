@@ -7,7 +7,7 @@ layout: post
 
 ** Última atualização: Janeiro 2024
 
-1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeapl.dgt.gob.es:7443/WEB_NCIT_CONSULTA/solicitarCita.faces).
+1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeclave.dgt.gob.es/WEB_NCIT_CONSULTA/solicitarCita.faces).
 
 2. Consulte se o Brasil confirmou neste [link](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces). Quando a situação estiver **CONSTESTADA** está tudo certo para prosseguir.
 
