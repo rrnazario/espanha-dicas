@@ -5,7 +5,7 @@ layout: post
 
 ## Passos a seguir
 
-** Última atualização: Novembro 2022
+** Última atualização: Janeiro 2024
 
 1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeapl.dgt.gob.es:7443/WEB_NCIT_CONSULTA/solicitarCita.faces).
 
@@ -25,8 +25,8 @@ layout: post
         * No dia agendado, levar os seguintes documentos:
             - EX15 preenchido. [Link](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf)
             - Gerar e pagar o formulário 790 ([link](https://sede.policia.gob.es:38089/Tasa790_012/ImpresoRellenar)). Custa 7,90€ (Escolher a opção **"Certificados e informes emitidos a instancia del interesado"**)
-            - Levar original e cópia do TIE e do Passaporte. Levar cópia do Empadronamiento **só em caso do endereço que consta em seu TIE ser diferente do atual em que vive**.
-            - Marcar **OUTRO** agendamento para buscar depois de uma semana aproximadamente ([link](http://sede.administracionespublicas.gob.es/icpplus/index.html)). Escolher a opção **"POLICIA. RECOGIDA DE CERTIFICADOS Y AUTORIZACION DE REGRESO**. Levar o TIE, passaporte e o comprovante que te darão no item anterior.
+            - Levar original e cópia do TIE e do Passaporte (cópia da folha da foto e dos dados). Levar cópia do Empadronamiento **só em caso do endereço que consta em seu TIE ser diferente do atual em que vive**.
+            - Caso não lhe dêem o documento no mesmo dia, você terá de marcar **OUTRO** agendamento para buscar depois de uma semana aproximadamente ([link](http://sede.administracionespublicas.gob.es/icpplus/index.html)). Escolher a opção **"POLICIA. RECOGIDA DE CERTIFICADOS Y AUTORIZACION DE REGRESO**. Levar o TIE, passaporte e o comprovante que te darão no item anterior.
 
 
 4. Comparecer no local 10 minutos antes (porque você vai esperar mais dentro do DGT). Assim que entrar, registre sua chegada no totem. Ficar atento para informar o TIE/DNI corretamente.
