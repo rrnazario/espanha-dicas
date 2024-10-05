@@ -3,13 +3,13 @@ layout: post
 ---
 # Lista de procedimentos pós cidadania concedida
 
-** Última atualização: Maio 2024 **
+** Última atualização: Outubro 2024 **
 
 ## Cidadania concedida, e agora?
 
 Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feitos para que o novo número de identificação seja trocado/relacionado ao antigo NIE.
 
-**IMPORTANTE**: Não jogue fora a cartinha do DNI eletrônico que recebeu no ato da confecção do documento!
+**IMPORTANTE**: Não jogue fora a cartinha do DNI eletrônico que recebeu no ato da confecção do documento, pois ela contém o PIN do seu DNIe que lhe será útil no futuro!
 
 
 ## Procedimentos
@@ -43,6 +43,7 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 - O certificado digital para o DNI é grátis e feito totalmente online.
 - Mais informações [aqui](https://www.sede.fnmt.gob.es/en/certificados/persona-fisica/obtener-certificado-con-dnie).
+- Dica: Com o app _"Certificado digital FNMT"_ é possível solicitar e gerar o certificado digital do seu DNI (links: [Google Play](https://play.google.com/store/apps/details?id=es.fnmtrcm.ceres.certificadoDigitalFNMT&hl=es_419), [App Store](https://apps.apple.com/es/app/certificado-digital-fnmt/id6449721772)).
 
 ### Carteira de motorista
 
