@@ -20,10 +20,19 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 - Documento que relaciona/reconhece que seu NIE agora responde pelo DNI. 
 - Feito na policia nacional, necessitando de agendamento (feito [aqui](https://icp.administracionelectronica.gob.es/icpco/citar?p=29&locale=es))
+  - Dados para cita em Málaga capital:
+    - Provincia: Málaga
+    - Oficina: CNP MÁLAGA Provincial, Plaza de Manuel Azaña (TIES (HUELLAS): ZONA 1, RESTO DE TRÁMITES: ZONA 2), 3, Málaga
+    - Trámite: POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE **CONCORDANCIA**)
+  - Formulario: [Modelo Solicitud EX-15](https://www.inclusion.gob.es/web/migraciones/informacion-util/modelos-de-solicitud)
+  - Taxa paga: [Modelo 790 Código 012](https://sede.policia.gob.es:38089/Tasa790_012/) (7,31€)
+  - Original e cópia do DNI espanhol
+  - Justificante de la cita
 
-### Troca de dados no empadronamento
+### Troca de dados no empadronamiento
 
 - Feito no ajuntamento, com agendamento (cita [aqui](https://sede.malaga.eu/es/tramitacion/tramites-destacados/detalle-del-tramite/index.html?id=103&tipoVO=5))
+- Também pode ser feito em uma OMAC (Oficina Municipal de Atención a la Ciudadania), sem agendamento ([Oficinas O.M.A.C de Málaga](https://saic.malaga.eu/oficinas-o.m.a.c./), [listado](https://www.malaga.eu/la-ciudad/instalaciones-y-espacios/index.html?idCtEsp=CT51&idDistrito=&texto=OMAC&param1=0))
 
 ### Informações bancárias/plano de saúde/imposto de renda
 
