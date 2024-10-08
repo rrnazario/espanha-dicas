@@ -33,6 +33,14 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 - Feito no ajuntamento, com agendamento (cita [aqui](https://sede.malaga.eu/es/tramitacion/tramites-destacados/detalle-del-tramite/index.html?id=103&tipoVO=5))
 - Também pode ser feito em uma OMAC (Oficina Municipal de Atención a la Ciudadania), sem agendamento ([Oficinas O.M.A.C de Málaga](https://saic.malaga.eu/oficinas-o.m.a.c./), [listado](https://www.malaga.eu/la-ciudad/instalaciones-y-espacios/index.html?idCtEsp=CT51&idDistrito=&texto=OMAC&param1=0))
+- [Hoja de empadronamiento en Málaga (impreso autorrellenable) 404,61 KB](https://www.malaga.eu/visorcontenido/SGTDocumentDisplayer/42715/DocumentoTramite42715) ([fonte](https://sede.malaga.eu/es/tramitacion/detalle-del-tramite/index.html?id=112&tipoVO=5#!tab4))
+  - Marcar: [✔️] "Modif. Datos personales"
+  - Preencher "ORDEN 1", inclusive:
+    - Marcar [✔️] "DNI"
+    - NACIONALIDAD: ESPAÑOL
+      - Dica: Se você tem um marcador em casa, é recomendável destacar a **NACIONALIDAD** e o **DNI** para deixar claro que eles precisam atualizar 2 coisas e não apenas uma (aconteceu de um colega ir duas vezes porque atualizaram apenas um campo de cada vez)
+    - Firma
+  - Lembrar de levar DNI original e cópia + certificado de concordância
 
 ### Informações bancárias/plano de saúde/imposto de renda
 
