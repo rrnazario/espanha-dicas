@@ -7,7 +7,7 @@ layout: post
 
 ** Última atualização: Novembro 2024
 
-1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeclave.dgt.gob.es/WEB_NCIT_CONSULTA/solicitarCita.faces). Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/cita.faces).
+1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeclave.dgt.gob.es/WEB_NCIT_CONSULTA/solicitarCita.faces). Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/inicio.faces).
 
 2. Consulte se o Brasil confirmou neste [link](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces). Quando a situação estiver **CONSTESTADA** está tudo certo para prosseguir.
 
