@@ -5,12 +5,12 @@ layout: post
 
 ## Passos a seguir
 
-** Última atualização: Novembro 2024
+** **Última atualização: Abril de 2025**
 
 1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeclave.dgt.gob.es/WEB_NCIT_CONSULTA/solicitarCita.faces).
    - Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/cita.faces).
    - É necessário ter a certificação digital.
-   - Ex.: [Exemplo de canje](./exemplo-de-canje/exemplo-de-canje.md)
+   - Ex.: [Exemplo de canje](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/exemplo-de-canje.md)
 
 2. Consulte se o Brasil confirmou neste [link](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces).
    - Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/cita.faces), nesse caso, você pode consultar como se fosse solicitar o canje novamente.
