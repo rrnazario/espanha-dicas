@@ -5,7 +5,7 @@ layout: post
 
 ** Última atualização: Junho 2025
 
-Este documento exibe uma lista de empresas que em teoria tem suporte ao visto e/ou à realocação para a **Espanha**, seja ela desde o Brasil ou de países do continente europeu / "próximos" ao continente Europeu.
+Este documento exibe uma lista de empresas de tecnologia que em teoria tem suporte ao visto e/ou à realocação para a **Espanha**, seja ela desde o Brasil ou de países do continente europeu / "próximos" ao continente Europeu.
 
 **IMPORTANTE**: Como se trata de uma lista viva, as informações podem estar defasadas por algum periodo de tempo. Caso note isso, por favor, abra um PR ou envie a informação para o 
 [https://t.me/rrnazario](https://t.me/rrnazario)
