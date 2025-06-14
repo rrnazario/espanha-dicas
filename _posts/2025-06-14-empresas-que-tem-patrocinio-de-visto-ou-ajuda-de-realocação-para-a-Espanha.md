@@ -10,6 +10,8 @@ Este documento exibe uma lista de empresas de tecnologia que em teoria tem supor
 **IMPORTANTE**: Como se trata de uma lista viva, as informações podem estar defasadas por algum periodo de tempo. Caso note isso, por favor, abra um PR ou envie a informação para o 
 [https://t.me/rrnazario](https://t.me/rrnazario)
 
+Outra recomendação é entrar nos sites das respectivas empresas para verificar se as vagas suportam as vantagens supracitadas.
+
 ---
 ## Lista
 
