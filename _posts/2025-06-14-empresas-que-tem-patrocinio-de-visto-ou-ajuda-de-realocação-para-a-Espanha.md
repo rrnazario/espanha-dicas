@@ -35,11 +35,13 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Google | ✅ | ❓ | ❓ |
 | Happy Scribe | ✅ | ❓ | ❓ |
 | Hewlett-Packard (HP) | ✅ | ❓ | ❓ |
+| Kantox | ✅ | ✅ | ✅ |
 | Kwalee | ✅ | ❓ | ❓ |
 | LingoKids | ✅ | ❓ | ❓ |
 | Lodgify | ✅ | ❓ | ✅ |
 | Mango | ✅ | ❓ | ❓ |
 | ManoMano | ✅ | ❓ | ❓ |
+| Novicap | ✅ | ✅ | ✅ |
 | N26 | ✅ | ❓ | ❓ |
 | New Relic | ✅ | ❓ | ❓ |
 | Oracle | ✅ | ✅ | ✅ |
@@ -48,6 +50,8 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Pepsico | ✅ | ❓ | ❓ |
 | Quonto | ✅ | ❓ | ❓ |
 | Sanofi | ✅ | ❓ | ❓ |
+| Tabby | ✅ | ✅ | ✅ |
+| TradingView | ✅ | ✅ | ✅ |
 | Ubisoft | ✅ | ❓ | ❓ |
 | Wallapop | ✅ | ❓ | ❓ |
 
