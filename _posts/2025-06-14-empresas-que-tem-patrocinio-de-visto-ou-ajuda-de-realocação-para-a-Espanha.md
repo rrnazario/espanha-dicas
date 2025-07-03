@@ -51,6 +51,7 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Quonto | ✅ | ❓ | ❓ |
 | Sanofi | ✅ | ❓ | ❓ |
 | Tabby | ✅ | ✅ | ✅ |
+| The Workshop | ✅ | ✅ | ✅ | 
 | TradingView | ✅ | ✅ | ✅ |
 | Ubisoft | ✅ | ❓ | ❓ |
 | Wallapop | ✅ | ❓ | ❓ |
