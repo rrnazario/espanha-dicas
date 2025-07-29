@@ -4,7 +4,7 @@ layout: post
 
 # Nacionalidade Espanhola Por Residência
 
-** Última atualização: Fevereiro 2025 **
+** Última atualização: Agosto 2025 **
 
 ## O que é?
 
@@ -22,6 +22,8 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
 ## Passos para Obtenção da Cidadania
 
 ### 1. Reunir Documentação
+
+- [Vídeo explicando](https://www.youtube.com/watch?v=mRU90iivd8o)
 
 **Formulário de Solicitação**:
 
@@ -41,11 +43,11 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
     - Para as Traduções juramentadas, uttilizei os serviços da One Translations. Tudo feito por whatsapp (+55 11 96018-3020) e chegando em 2 dias todos os docs. Cerca de 100 Reais por documento.
   - PS: Esses documentos devem ser anexados digitalmente (Originais e Traduções)
 
-  - Cópia das páginas de identificação do Passaporte (Páginas com foto da pessoa). No meu caso fiz um PDF com as páginas de identificação e as do visto de entrada, mesmo já estando expirado.
+  - Cópia das páginas de identificação do Passaporte (Páginas com foto da pessoa). No meu caso fiz um PDF com as páginas de identificação e as do visto de entrada, mesmo já estando expirado. 
 
 ##### **Notificação**:
 
-- Preencha com seus dados caso já não estejam preenchidos..
+- Preencha com seus dados caso já não estejam preenchidos.
 
 ##### **Taxas**:
 
@@ -54,19 +56,71 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
 
 ##### **Exames**:
 
-- Nessa aba é necessário anexar os comprovantes de aprovação nos exames DELE e CCSE (ou equivalentes como o ESO). No meu caso só adicionei o certificado do ESO para os dois campos e deu tudo certo.
+- Nessa aba é necessário anexar os comprovantes de aprovação nos exames DELE (nível A2 ou superior) e CCSE (ou equivalentes como o ESO). No meu caso só adicionei o certificado do ESO para os dois campos e deu tudo certo.
+  - O exame da CCSE tem validade de 3 anos para a cidadania. Ou seja: dado que se recebeu o resultado, deve-se aplicar para a cidadania em até 3 anos. Caso passe este tempo, um novo exame do CCSE deverá ser feito.
+  - O exame da DELE não tem prazo de validade.
+
+##### **Dicas de preenchimento do formulário**:
+
+- Para registro no sistema, o sistema não aceita 2 nomes simples ou um nome composto. Caso você tenha dois ou mais nomes, como a maioria dos brasileiros, o sistema orienta a juntar os nomes separando apenas com um hífen (-).
+  - Ex: João Vitor -> João-Vitor
+
+- Caso marque a opção de receber a notificação eletrônica, a mesma será feita no portal DEHÚ. Um e-mail será enviao ao correio eletrônico para avisar que existem novas notificações. Mas a notificação em si fica dentro desse portal do governo, que só pode ser acessado mediante Clave Pin, Clave Permanente, etc.
 
 ##### **Comprovantes**:
 
 - Baixe o seu comprovante da solicitação de nacionalidade.
 
+- Após fazer o pagamento, você receberá um número de comprovante (Número de Justificante) e um número NRC. É bom guardar todos esses números caso precise comprovar com o governo que você de fato pagou. Copie e salve em algum lugar, como um e-mail.
+
 ### 2. Consultar Status da Solicitação
 
-- Nesse [link](https://sede.mjusticia.gob.es/eConsultas/inicioNacionalidad) você consegue uma detalhação maior do status do processo.
-  - Normalmente é possível consultar pelo mesmo link onde foi criada a solicitação, porém sem muitos detalhes.
+- Como consultar:
+  - [Vídeo explicando](https://www.youtube.com/watch?v=oK-aDTKwKjU)
 
-### 3. Após a Aprovação da Nacionalidade
+  - Acesse https://sede.mjusticia.gob.es/es/tramites/nacionalidad-espanola e clique em "Consulta Telemática de Expedientes de Nacionalidad Española por Residéncia".
 
+  - Informe seu NIE, o número e ano do "Justificante de Registro" que foi emitido ao finalizar a solicitação (ex: R123456/1999), sua data de nascimento, e marque os carros e semáforos do Google para mostrar que você não é um robô.
+
+- Sua solicitação pode estar nos seguintes estados:
+  1. **Abierto - Registrado.**
+    - Indica que seu processo foi iniciado corretamente.
+    - Costuma pasasr a maior parte do tempo nesse estado.
+    - O que fazer: Você não precisa fazer nada. Só esperar.
+  2. **El NIE o el número de expediente son incorrectos. Comproba los datos introduzidos.**
+    - Indica que o sistema não detectou corretamente os dados.
+    - Pode levar 24h para que o sistema atualize, então é bom esperar esse tempo.
+    - O que fazer: Se já se passaram 24h e continua nesse estado, verifique os dados introduzidos e espere 24h após a correção.
+  3. **Abierto - En tramitación. Pendinente recepción de informes oficiales.**
+    - Indica que a administração está esperando algum comprovante de outro órgão governamental ou do Instituto Cervantes.
+    - O que fazer: Você não precisa fazer nada. Só esperar.
+  4. **Abierto - En tramitación. administración requirió información.**
+    - Semelhante ao anterior. Significa que a documentação enviada pelo outro órgão público não está clara ou foi insuficiente e a administração solicitou que a mesma inforação seja enviada novamente de forma correta.
+    - O que fazer: Você não precisa fazer nada. Só esperar.
+  5. **Abierto - En tramitación. Su expediente se encuentra en calificación.**
+    - Seu pedido está pendente de avaliação por um funcionário da administração.
+    - O que fazer: Você não precisa fazer nada. Só esperar.
+  6. **Abierto - En tramitación. Pendiente requerimiento.**
+    - Um funcionário da administração detectou que você precisa corrigir alguma coisa ou enviar outro documento.
+    - Você vai receber um email informando.
+    - O que fazer: Veja o que ele quer e resolva urgentemente para que o seu processo não seja arquivado.
+  7. **Abierto - En tramitación. Requerido - documentación aportada.**
+    - Quando você envia a documentação que faltava e o status volta para a administração.
+    - O que fazer: Você não precisa fazer nada. Só esperar.
+  8. **Abierto - Archivado.**
+    - Caso você não responda a notificação no estado "Pendiente requerimiento", seu processo fica arquivado.
+    - O que fazer: Senta e chora. E começa tudo de novo.
+  9. **Abierto - Concedido. Enviada notificación.**
+    - Seu pedido foi aceita e concedido, e um email enviado para você lhe informando isso.
+    - Você vai receber um email informando.
+    - O que fazer: Agora você precisa ir fazer o juramento.
+
+- Tempo de duração até ter a cidadania concedida: Isso varia muito, geralmente leva em torno de 6 meses.
+  - Algumas pessoas conseguiram com 2 meses e outras com quase 1 ano.
+
+### 3. Após a Aprovação da Nacionalidade/ Jura
+
+- [Vídeo explicando](https://www.youtube.com/watch?v=c7_GS5XqWxI)
 - O processo ainda não acabou. Agora é necessário pegar uma cita para o Registro Civil da cidade onde reside, para que seja assinada a Jura de Nacionalidade.
   - Entre [aqui](https://www.juntadeandalucia.es/justicia/citaprevia/?idCliente=4), selecione o Registro Civil de sua cidade e o Trâmite Nacionalidad. Um calendário vai aparecer com os dias com citas disponíveis em verde. Esse é um passo complicado, porque tem poucos horários e quase sempre estão todos ocupados, porém olhe todo dia após a meia-noite e bem cedo, pela manhã. Pode ser que seja possível assim.
   - Com a cita enfim marcada, no dia da mesma, leve a seguinte documentação:
