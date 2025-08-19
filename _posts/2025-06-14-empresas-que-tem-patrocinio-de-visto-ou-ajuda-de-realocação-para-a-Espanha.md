@@ -20,6 +20,7 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Adidas | ✅ | ❓ | ❓ |
 | Adevinta | ✅ | ❓ | ❓ |
 | Amazon | ✅ | ❓ | ❓ |
+| Axpo Group | ✅ | ❓ | ❓ |
 | Boost IT | ✅ | ❓ | ❓ |
 | Capitole Consulting | ✅ | ❓ | ❓ |
 | Citryx | ✅ | ❓ | ❓ |
