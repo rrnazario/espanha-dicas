@@ -2,17 +2,17 @@
 layout: post
 ---
 
-# Conversão dos cortes espanhóis para os brasileiros.
+# Conversão dos cortes espanhóis para os brasileiros
 
-**Última atualização: Dezembro de 2022**
+Última atualização: Dezembro de 2022
 
-### Piezas Extra:
+## Piezas Extra
 
 - Solomillo: Filé mignon
 - Lomo Bajo: ContraFilé
 - Lomo alto: Bisteca – Filé de Costela
 
-### Piezas de 1ªA
+## Piezas de 1ªA
 
 - Cadera: Alcatra
 - Babilla: Rabo de Alcatra
@@ -21,15 +21,15 @@ layout: post
 - Tapilla: Picanha
 - Redondo: Lagarto
 
-### Piezas de 1ªB
+## Piezas de 1ªB
 
-- Aguja: Acém 
+- Aguja: Acém
 - Culata de Contra: Coxão duro
 - Espaldilla: Paleta
 - Pez:Coração de paleta
 - Rabillo de Cadera: Maminha de Alcatra
 
-### Piezas de 2ª
+## Piezas de 2ª
 
 - Aleta: Peito
 - Brazuelo: Dianteiro garrão
@@ -37,7 +37,7 @@ layout: post
 - Morcillo: Músculo mole
 - Osobuco: Ossobuco
 
-### Piezas de 3ª
+## Piezas de 3ª
 
 - Carrillada:
 - Costillar: Costela de ripa
@@ -49,6 +49,6 @@ layout: post
 
 ---
 
-#### Boa sorte!
+**Boa sorte!**
 
 [Voltar](/espanha-dicas/)

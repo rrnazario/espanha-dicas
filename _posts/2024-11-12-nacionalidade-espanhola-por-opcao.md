@@ -4,12 +4,13 @@ layout: post
 
 # Nacionalidade Espanhola por opção
 
-**Última atualização: Novembro de 2024**
+Última atualização: Novembro de 2024
 
 ## O que é?
 
 Por exemplo, assim que o pai ou mãe obtém nacionalidade espanhola e DNI espanhol, eles podem pode pedir a nacionalidade espanhola por opção para seu filho(a) menor de 20 anos.
 Ver mais:
+
 - <https://espanhaadvogados.com/nacionalidade-espanhola-por-opcao/>
 - <https://www.espanhafacil.com/blog/conheca-nacionalidade-espanhola-por-opcao/>
 - <https://espanhaimigracao.com/nacionalidade-espanhola-por-residencia-filho-de-espanhol-bebe-espanhol-opcao-perda-e-manutencao-recuperacao-espanol-de-origen/nacionalidade-por-opcao/>
@@ -18,21 +19,24 @@ Ver mais:
 ## Onde?
 
 Esse procedimento é simples e se faz diretamente no registro civil.
+
 - Devem ir no registro civil da localidade aonde estão empadronados, ou não serão atentidos.
 - Este trámite no registro civil não tem custo nenhum.
 
 ## Cita
 
 Pedir cita no Registro Civil de onde o pai/mãe espanhol estiver empadronado:
+
 - <https://www.juntadeandalucia.es/justicia/citaprevia/?idCliente=4>
 - Trámite a selecionar: NACIONALIDAD
 - Oficina para pai/mãe empadronados em Málaga capital: REGISTRO CIVIL EXCLUSIVO DE MÁLAGA
 
 Obs: Nesta cita devem estar presentes ambos os pais da criança, e se o menor tiver menos de 14 anos não precisa comparecer presencialmente.
 
-### Documentos para apresentar no registro civil no dia da cita:
+### Documentos para apresentar no registro civil no dia da cita
 
 **Da criança**:
+
 - Formulário de nacionalidade preenchido e assinado por ambos pais da criança. (["DECLARACIÓN DE DATOS DE NACIMIENTO DE LA PERSONA A LA QUE SE VA A INSCRIBIR"](https://www.juntadeandalucia.es/justicia/portal/adriano/secretariageneral/malaga/.content/recursosexternos/FORMULARIONACIONALIDAD.pdf))
 - Certidão de nascimento estrangeira (Brasil) original apostilado + cópia
   - Obs: Esta certidão não precisa ser recente.
@@ -42,21 +46,27 @@ Obs: Nesta cita devem estar presentes ambos os pais da criança, e se o menor ti
 - Volante de empadronamiento colectivo original e recente
 
 **Do pai/mãe espanhol**:
+
 - Certificado literal de nacimento espanhol original e recente
 - DNI original + cópia
 
 **Do pai/mãe não-espanhol**:
+
 - TIE/NIE original + cópia
 
 **Outros**:
+
 - Certidão de casamento apostilado + cópia
-	- Obs: Esta certidão não precisa ser recente.
+  - ***Obs:*** Esta certidão não precisa ser recente.
+
 - Tradução juramentada do certidão acima + cópia
 
 **Extra**:
+
 - Quem tiver o certificado de concordância de troca de NIE por DNI é bom levar.
 
-_Dica_:
+***Dica:***
+
 - No registro civil eles irão escanear todos os documentos e lhe devolver os originais (ou mesmo as cópias), e para facilitar escanear, se possível, seria melhor se os documentos não estiverem grampeados para ir mais rápido.
 
 ## Prazo
@@ -66,6 +76,6 @@ _Dica_:
 
 ---
 
-#### Boa sorte!
+**Boa sorte!**
 
 [Voltar](/espanha-dicas/)

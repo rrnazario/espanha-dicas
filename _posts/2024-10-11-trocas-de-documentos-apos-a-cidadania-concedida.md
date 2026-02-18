@@ -4,7 +4,7 @@ layout: post
 
 # Lista de procedimentos pós cidadania concedida
 
-**Última atualização: Outubro de 2024**
+Última atualização: Outubro de 2024
 
 ## Cidadania concedida, e agora?
 
@@ -12,14 +12,13 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 **IMPORTANTE**: Não jogue fora a cartinha do DNI eletrônico que recebeu no ato da confecção do documento, pois ela contém o PIN do seu DNIe que lhe será útil no futuro!
 
-
 ## Procedimentos
 
-** Os procedimentos todos foram feitos em Málaga e levam em consideração apenas alguns casos.
+Os procedimentos todos foram feitos em Málaga e levam em consideração apenas alguns casos.
 
 ### Certificado de concordância
 
-- Documento que relaciona/reconhece que seu NIE agora responde pelo DNI. 
+- Documento que relaciona/reconhece que seu NIE agora responde pelo DNI.
 - Feito na policia nacional, necessitando de agendamento (feito [aqui](https://icp.administracionelectronica.gob.es/icpco/citar?p=29&locale=es))
   - Dados para cita em Málaga capital:
     - Provincia: Málaga
@@ -68,6 +67,6 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 ---
 
-#### Boa sorte!
+**Boa sorte!**
 
 [Voltar](/espanha-dicas/)
