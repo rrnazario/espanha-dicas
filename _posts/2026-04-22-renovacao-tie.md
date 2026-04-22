@@ -1,5 +1,9 @@
 # Renovação de TIE
 
+Última atualização: Abril de 2026
+
+---
+
 O TIE (cartão) tem um prazo de expiração e, ao menos que a pessoa não precise mais dele (ex: obteve a nacionalidade), precisa ser renovado.
 O NIE (o número) permanecerá o mesmo.
 
