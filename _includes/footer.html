@@ -1,0 +1,15 @@
+<footer class="bd-footer py-4 mt-5 border-top bg-body-tertiary">
+  <div class="container-xxl bd-gutter small text-body-secondary d-flex flex-column flex-md-row justify-content-between gap-2">
+    <span>{{ site.title }} — dicas para brasileiros vivendo na Espanha.</span>
+    <span class="d-flex flex-wrap gap-3">
+      <span>
+        Quer contribuir? Abra um
+        <a class="link-secondary" href="https://github.com/rrnazario/espanha-dicas/pulls" target="_blank" rel="noopener">Pull Request</a>.
+      </span>
+      <a class="link-secondary" href="https://github.com/rrnazario/espanha-dicas" target="_blank" rel="noopener"><i class="bi bi-github me-1"></i>GitHub</a>
+      {% if site.social_links.telegram %}
+        <a class="link-secondary" href="https://{{ site.social_links.telegram }}" target="_blank" rel="noopener"><i class="bi bi-telegram me-1"></i>Telegram</a>
+      {% endif %}
+    </span>
+  </div>
+</footer>

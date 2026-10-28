@@ -1,0 +1,61 @@
+<header class="navbar navbar-expand-lg bd-navbar sticky-top">
+  <nav class="container-xxl bd-gutter flex-nowrap" aria-label="Navegação principal">
+    {% if page.layout == "post" %}
+      <button class="navbar-toggler d-flex d-lg-none order-first p-2 border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdSidebar" aria-controls="bdSidebar" aria-label="Abrir menu lateral">
+        <i class="bi bi-list fs-4"></i>
+      </button>
+    {% endif %}
+
+    <a class="navbar-brand d-flex align-items-center gap-2 p-0 me-0 me-lg-2 fw-semibold" href="{{ '/' | relative_url }}">
+      <img class="bd-brand-flag" src="{{ '/assets/images/flag-es.svg' | relative_url }}" alt="" width="24" height="16">
+      {{ site.title }}
+    </a>
+
+    <button type="button" class="btn bd-search-button d-flex align-items-center ms-auto ms-lg-4 me-lg-auto" data-bs-toggle="modal" data-bs-target="#searchModal" aria-label="Pesquisar (Ctrl+K)">
+      <i class="bi bi-search"></i>
+      <span class="d-none d-lg-inline ms-2 me-4">Pesquisar…</span>
+      <kbd class="d-none d-lg-inline ms-auto small">Ctrl K</kbd>
+    </button>
+
+    {%- comment -%} GitHub and Telegram also live in the footer, so phones hide them here {%- endcomment -%}
+    <ul class="navbar-nav flex-row flex-nowrap ms-lg-0">
+      <li class="nav-item d-none d-sm-block">
+        <a class="nav-link px-2" href="https://github.com/rrnazario/espanha-dicas" target="_blank" rel="noopener" aria-label="GitHub">
+          <i class="bi bi-github fs-5"></i>
+        </a>
+      </li>
+      {% if site.social_links.telegram %}
+        <li class="nav-item d-none d-sm-block">
+          <a class="nav-link px-2" href="https://{{ site.social_links.telegram }}" target="_blank" rel="noopener" aria-label="Telegram">
+            <i class="bi bi-telegram fs-5"></i>
+          </a>
+        </li>
+      {% endif %}
+      <li class="nav-item py-2 py-lg-1 col-auto d-none d-sm-block">
+        <div class="vr d-flex h-100 mx-2 text-body-secondary opacity-50"></div>
+      </li>
+      <li class="nav-item dropdown">
+        <button class="btn btn-link nav-link px-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Alternar tema">
+          <i class="bi bi-circle-half theme-icon-active fs-5"></i>
+        </button>
+        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme">
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" data-icon="bi-sun-fill" aria-pressed="false">
+              <i class="bi bi-sun-fill me-2 opacity-50"></i>Claro
+            </button>
+          </li>
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" data-icon="bi-moon-stars-fill" aria-pressed="false">
+              <i class="bi bi-moon-stars-fill me-2 opacity-50"></i>Escuro
+            </button>
+          </li>
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" data-icon="bi-circle-half" aria-pressed="false">
+              <i class="bi bi-circle-half me-2 opacity-50"></i>Automático
+            </button>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,21 @@
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true" data-index="{{ '/search.json' | relative_url }}">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable modal-fullscreen-sm-down">
+    <div class="modal-content bd-search">
+      <div class="modal-header gap-2">
+        <h2 class="visually-hidden" id="searchModalLabel">Pesquisar</h2>
+        <i class="bi bi-search text-body-secondary"></i>
+        <input type="search" class="form-control form-control-lg border-0 shadow-none px-1" id="searchInput" placeholder="Pesquisar nas dicas…" autocomplete="off" spellcheck="false" aria-controls="searchResults" aria-describedby="searchStatus">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+      </div>
+      <div class="modal-body p-2">
+        <p class="text-body-secondary small px-2 my-2" id="searchStatus" role="status">Digite para pesquisar.</p>
+        <ul class="list-unstyled mb-0" id="searchResults" role="listbox" aria-label="Resultados"></ul>
+      </div>
+      <div class="modal-footer justify-content-start small text-body-secondary py-2 d-none d-sm-flex">
+        <span><kbd>↑</kbd> <kbd>↓</kbd> navegar</span>
+        <span><kbd>Enter</kbd> abrir</span>
+        <span><kbd>Esc</kbd> fechar</span>
+      </div>
+    </div>
+  </div>
+</div>

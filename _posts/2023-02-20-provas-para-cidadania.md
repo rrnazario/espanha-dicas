@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Dicas para as provas CCSE / DELE A2"
+description: "Como se preparar para as provas CCSE e DELE A2 exigidas na nacionalidade por residência."
+section: nacionalidade
+last_updated: "Fevereiro de 2026"
 ---
-
-# Dicas para as provas CCSE / DELE A2
-
-Última atualização: Fevereiro de 2026
 
 Para brasileiros, o processo de cidadania espanhol pode ser feito após 2 anos morando legalmente na Espanha.
 Um dos requerimentos é comprovar o conhecimento da cultura e da lingua espanhola.

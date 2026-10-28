@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Lista de procedimentos pós cidadania concedida"
+description: "Trâmites para atualizar seus dados depois de obter o DNI e o passaporte espanhol."
+section: nacionalidade
+last_updated: "Outubro de 2024"
 ---
-
-# Lista de procedimentos pós cidadania concedida
-
-Última atualização: Outubro de 2024
 
 ## Cidadania concedida, e agora?
 

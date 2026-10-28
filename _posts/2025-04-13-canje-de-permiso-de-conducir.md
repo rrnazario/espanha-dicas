@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Troca de carteira de motorista (canje de permiso de conducir) na Espanha para brasileiros"
+description: "Passo a passo para trocar a carteira de motorista brasileira pela espanhola."
+section: carteira-de-motorista
+last_updated: "Abril de 2025"
 ---
-
-# Troca de carteira de motorista (canje de permiso de conducir) na Espanha para brasileiros
-
-Última atualização: Abril de 2025
 
 ## Passos a seguir
 

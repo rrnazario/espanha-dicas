@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Nacionalidade Espanhola Para Nascidos na Espanha por \"Simple Presunción\""
+description: "Requisitos e passos para a nacionalidade de crianças nascidas na Espanha por simple presunción."
+section: nacionalidade
+last_updated: "Novembro de 2024"
 ---
-
-# Nacionalidade Espanhola Para Nascidos na Espanha por "Simple Presunción"
-
-Última atualização: Novembro de 2024
 
 ## Requisitos
 

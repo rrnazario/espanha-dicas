@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Nacionalidade Espanhola Por Residência"
+description: "Guia completo da nacionalidade espanhola por residência para brasileiros."
+section: nacionalidade
+last_updated: "Agosto de 2025"
 ---
-
-# Nacionalidade Espanhola Por Residência
-
-Última atualização: Agosto de 2025
 
 ## O que é?
 

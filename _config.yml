@@ -1,15 +1,11 @@
-theme: minima
-minima:
-  date_format: "%b %-d, %Y"
-
 # Localization
 timezone: Europe/Madrid
 lang: pt-BR
 locale: pt_BR
 
-show_excerpts: false
-
 title: Espanha Dicas
+url: https://rrnazario.github.io
+baseurl: /espanha-dicas # post images are linked as /espanha-dicas/images/...
 
 description: > 
   Este repositório tem como propósito reunir as dicas para brasileiros 
@@ -21,6 +17,17 @@ social_links:
 
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: true
+
+# Repository and Docker files that shouldn't be published with the site
+exclude:
+  - README.md
+  - Dockerfile
+  - docker-compose.yml
+  - build.sh
+  - test.sh
+  - Gemfile
+  - Gemfile.lock

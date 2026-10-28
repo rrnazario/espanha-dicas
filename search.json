@@ -1,0 +1,17 @@
+---
+layout: null
+sitemap: false
+---
+[
+{%- for post in site.posts -%}
+  {%- assign section = site.data.navigation.sections | where: "id", post.section | first -%}
+  {
+    "id": {{ forloop.index }},
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "section": {{ section.title | default: "" | jsonify }},
+    "description": {{ post.description | default: "" | jsonify }},
+    "content": {{ post.content | strip_html | normalize_whitespace | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{%- endfor -%}
+]

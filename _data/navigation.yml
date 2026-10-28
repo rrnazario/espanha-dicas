@@ -1,0 +1,19 @@
+# Sidebar sections, in display order.
+# Each post joins a section through its `section` front matter key.
+# (`category` is avoided on purpose: Jekyll would add it to the post URL.)
+sections:
+  - id: nacionalidade
+    title: Nacionalidade
+    icon: bi-flag
+  - id: documentos
+    title: Documentos
+    icon: bi-file-earmark-text
+  - id: carteira-de-motorista
+    title: Carteira de motorista
+    icon: bi-car-front
+  - id: trabalho
+    title: Trabalho
+    icon: bi-briefcase
+  - id: dicas-gerais
+    title: Dicas gerais
+    icon: bi-lightbulb

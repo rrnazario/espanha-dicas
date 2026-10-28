@@ -1,9 +1,10 @@
 ---
 layout: post
+title: "Homologação e validação de títulos/graus de estudos"
+description: "Como homologar ou validar diplomas e estudos brasileiros na Espanha."
+section: documentos
+last_updated: "Janeiro de 2025"
 ---
-# Homologação e validação de títulos/graus de estudos
-
-Última atualização: Janeiro de 2025
 
 ## O que é?
 
