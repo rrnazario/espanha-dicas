@@ -23,6 +23,31 @@
           </a>
         </li>
       {% endif %}
+      <li class="nav-item py-2 py-lg-1 col-auto">
+        <div class="vr d-flex h-100 mx-2 text-body-secondary opacity-50"></div>
+      </li>
+      <li class="nav-item dropdown">
+        <button class="btn btn-link nav-link px-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Alternar tema">
+          <i class="bi bi-circle-half theme-icon-active fs-5"></i>
+        </button>
+        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme">
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" data-icon="bi-sun-fill" aria-pressed="false">
+              <i class="bi bi-sun-fill me-2 opacity-50"></i>Claro
+            </button>
+          </li>
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" data-icon="bi-moon-stars-fill" aria-pressed="false">
+              <i class="bi bi-moon-stars-fill me-2 opacity-50"></i>Escuro
+            </button>
+          </li>
+          <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" data-icon="bi-circle-half" aria-pressed="false">
+              <i class="bi bi-circle-half me-2 opacity-50"></i>Automático
+            </button>
+          </li>
+        </ul>
+      </li>
     </ul>
   </nav>
 </header>

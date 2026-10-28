@@ -1,9 +1,24 @@
 ---
 ---
-// Structural styles for the docs layout, modeled on the Bootstrap docs.
-// Visual polish (accent colors, callouts, dark mode tweaks) comes in phase 3.
+// Docs layout styles, modeled on the Bootstrap docs.
 
 $sidebar-top: 5rem;
+
+// Accent colors, with lighter variants for dark mode
+:root,
+[data-bs-theme="light"] {
+  --bd-accent: #712cf9;
+  --bd-accent-rgb: 113, 44, 249;
+  --bd-accent-bg: rgba(var(--bd-accent-rgb), .1);
+  --bd-callout-bg: rgba(var(--bd-accent-rgb), .05);
+}
+
+[data-bs-theme="dark"] {
+  --bd-accent: #a37cf0;
+  --bd-accent-rgb: 163, 124, 240;
+  --bd-accent-bg: rgba(var(--bd-accent-rgb), .15);
+  --bd-callout-bg: rgba(var(--bd-accent-rgb), .08);
+}
 
 .bd-gutter {
   --bs-gutter-x: 3rem;
@@ -96,14 +111,83 @@ $sidebar-top: 5rem;
   text-decoration: none;
 
   &:hover,
-  &:focus,
-  &.active {
+  &:focus {
     color: var(--bs-emphasis-color);
     background-color: var(--bs-tertiary-bg);
   }
 
   &.active {
     font-weight: 600;
+    color: var(--bd-accent);
+    background-color: var(--bd-accent-bg);
+  }
+}
+
+.navbar-brand {
+  color: var(--bd-accent);
+
+  &:hover,
+  &:focus {
+    color: var(--bd-accent);
+  }
+}
+
+// "Nesta página"
+.bd-toc {
+  font-size: .875rem;
+
+  nav {
+    ul {
+      padding-left: 0;
+      margin-bottom: 0;
+      list-style: none;
+
+      ul {
+        padding-left: 1rem;
+      }
+    }
+
+    a {
+      display: block;
+      padding: .125rem 0 .125rem .75rem;
+      color: inherit;
+      text-decoration: none;
+      border-left: .125rem solid transparent;
+
+      &:hover {
+        color: var(--bs-emphasis-color);
+      }
+
+      &.active {
+        font-weight: 500;
+        color: var(--bd-accent);
+        border-left-color: var(--bd-accent);
+      }
+    }
+  }
+
+  @media (min-width: 992px) {
+    nav {
+      margin-left: 1rem;
+    }
+
+    .bd-toc-collapse {
+      display: block !important;
+    }
+  }
+
+  @media (max-width: 991.98px) {
+    .bd-toc-toggle {
+      font-size: .875rem;
+    }
+
+    .bd-toc-collapse nav {
+      padding: 1rem;
+      margin-top: .5rem;
+      background-color: var(--bs-tertiary-bg);
+      border: 1px solid var(--bs-border-color);
+      border-radius: var(--bs-border-radius);
+    }
   }
 }
 
@@ -145,10 +229,18 @@ $sidebar-top: 5rem;
     }
   }
 
+  // Blockquotes ("> Atenção", "> Obs") render as Bootstrap docs callouts
   blockquote {
-    padding: .75rem 1rem;
-    border-left: .25rem solid var(--bs-border-color);
-    color: var(--bs-secondary-color);
+    padding: 1.25rem;
+    margin: 1.25rem 0;
+    color: var(--bs-body-color);
+    background-color: var(--bd-callout-bg);
+    border-left: .25rem solid var(--bd-accent);
+    border-radius: 0 var(--bs-border-radius) var(--bs-border-radius) 0;
+
+    > :last-child {
+      margin-bottom: 0;
+    }
   }
 
   pre {
@@ -156,11 +248,56 @@ $sidebar-top: 5rem;
     background-color: var(--bs-tertiary-bg);
     border-radius: var(--bs-border-radius);
   }
+
+  a:not(.anchor-link) {
+    color: var(--bd-accent);
+    text-underline-offset: .2em;
+  }
+}
+
+// "#" link shown when hovering a heading
+.anchor-link {
+  padding: 0 .375rem;
+  font-weight: 400;
+  color: rgba(var(--bd-accent-rgb), .5);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity .15s ease;
+
+  :hover > &,
+  &:focus {
+    color: var(--bd-accent);
+    opacity: 1;
+  }
+}
+
+// Copy button on code blocks
+.bd-code-snippet {
+  position: relative;
+
+  .btn-clipboard {
+    position: absolute;
+    top: .5rem;
+    right: .5rem;
+    z-index: 1;
+    color: var(--bs-secondary-color);
+    background-color: var(--bs-body-bg);
+    border: 1px solid var(--bs-border-color);
+
+    &:hover,
+    &:focus {
+      color: var(--bd-accent);
+    }
+  }
 }
 
 // Home
 .bd-hero {
-  background-color: var(--bs-tertiary-bg);
+  background-image: linear-gradient(180deg, var(--bd-accent-bg), transparent);
+
+  h1 {
+    color: var(--bd-accent);
+  }
 }
 
 .bd-hero-lead {
