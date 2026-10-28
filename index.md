@@ -7,6 +7,6 @@
 #
 layout: home
 ---
-Este repositório tem como propósito reunir as dicas para brasileiros vivendo na Espanha 🇪🇸
+Este repositório tem como propósito reunir as dicas para brasileiros vivendo na Espanha <img class="bd-brand-flag align-baseline" src="{{ '/assets/images/flag-es.svg' | relative_url }}" alt="" width="21" height="14">
 
 Para **contribuir**, basta abrir um Pull Request para o branch `master`.

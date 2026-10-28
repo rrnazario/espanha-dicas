@@ -6,11 +6,18 @@
       </button>
     {% endif %}
 
-    <a class="navbar-brand p-0 me-0 me-lg-2 fw-semibold" href="{{ '/' | relative_url }}">
-      🇪🇸 {{ site.title }}
+    <a class="navbar-brand d-flex align-items-center gap-2 p-0 me-0 me-lg-2 fw-semibold" href="{{ '/' | relative_url }}">
+      <img class="bd-brand-flag" src="{{ '/assets/images/flag-es.svg' | relative_url }}" alt="" width="24" height="16">
+      {{ site.title }}
     </a>
 
-    <ul class="navbar-nav flex-row flex-wrap ms-auto">
+    <button type="button" class="btn bd-search-button d-flex align-items-center ms-auto ms-lg-4 me-lg-auto" data-bs-toggle="modal" data-bs-target="#searchModal" aria-label="Pesquisar (Ctrl+K)">
+      <i class="bi bi-search"></i>
+      <span class="d-none d-lg-inline ms-2 me-4">Pesquisar…</span>
+      <kbd class="d-none d-lg-inline ms-auto small">Ctrl K</kbd>
+    </button>
+
+    <ul class="navbar-nav flex-row flex-wrap ms-lg-0">
       <li class="nav-item">
         <a class="nav-link px-2" href="https://github.com/rrnazario/espanha-dicas" target="_blank" rel="noopener" aria-label="GitHub">
           <i class="bi bi-github fs-5"></i>

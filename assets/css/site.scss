@@ -132,6 +132,62 @@ $sidebar-top: 5rem;
   }
 }
 
+.bd-brand-flag {
+  border-radius: .125rem;
+  box-shadow: 0 0 0 1px var(--bs-border-color-translucent);
+}
+
+// Search
+.bd-search-button {
+  color: var(--bs-secondary-color);
+  border: 0;
+
+  @media (min-width: 992px) {
+    min-width: 16rem;
+    padding: .375rem .75rem;
+    background-color: var(--bs-tertiary-bg);
+    border: 1px solid var(--bs-border-color);
+
+    &:hover {
+      color: var(--bs-body-color);
+      border-color: var(--bd-accent);
+    }
+  }
+
+  kbd {
+    color: var(--bs-secondary-color);
+    background-color: var(--bs-body-bg);
+    border: 1px solid var(--bs-border-color);
+  }
+}
+
+.bd-search {
+  mark {
+    padding: 0;
+    color: inherit;
+    background-color: var(--bd-accent-bg);
+  }
+
+  .bd-search-result {
+    color: var(--bs-body-color);
+
+    &:hover,
+    &.active {
+      background-color: var(--bd-accent-bg);
+
+      .fw-semibold {
+        color: var(--bd-accent);
+      }
+    }
+  }
+
+  kbd {
+    color: var(--bs-secondary-color);
+    background-color: var(--bs-tertiary-bg);
+    border: 1px solid var(--bs-border-color);
+  }
+}
+
 // "Nesta página"
 .bd-toc {
   font-size: .875rem;
