@@ -4,6 +4,8 @@ lang: pt-BR
 locale: pt_BR
 
 title: Espanha Dicas
+url: https://rrnazario.github.io
+baseurl: /espanha-dicas # post images are linked as /espanha-dicas/images/...
 
 description: > 
   Este repositório tem como propósito reunir as dicas para brasileiros 

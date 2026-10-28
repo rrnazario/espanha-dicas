@@ -1,5 +1,5 @@
 <header class="navbar navbar-expand-lg bd-navbar sticky-top">
-  <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap" aria-label="Navegação principal">
+  <nav class="container-xxl bd-gutter flex-nowrap" aria-label="Navegação principal">
     {% if page.layout == "post" %}
       <button class="navbar-toggler d-flex d-lg-none order-first p-2 border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdSidebar" aria-controls="bdSidebar" aria-label="Abrir menu lateral">
         <i class="bi bi-list fs-4"></i>
@@ -17,20 +17,21 @@
       <kbd class="d-none d-lg-inline ms-auto small">Ctrl K</kbd>
     </button>
 
-    <ul class="navbar-nav flex-row flex-wrap ms-lg-0">
-      <li class="nav-item">
+    {%- comment -%} GitHub and Telegram also live in the footer, so phones hide them here {%- endcomment -%}
+    <ul class="navbar-nav flex-row flex-nowrap ms-lg-0">
+      <li class="nav-item d-none d-sm-block">
         <a class="nav-link px-2" href="https://github.com/rrnazario/espanha-dicas" target="_blank" rel="noopener" aria-label="GitHub">
           <i class="bi bi-github fs-5"></i>
         </a>
       </li>
       {% if site.social_links.telegram %}
-        <li class="nav-item">
+        <li class="nav-item d-none d-sm-block">
           <a class="nav-link px-2" href="https://{{ site.social_links.telegram }}" target="_blank" rel="noopener" aria-label="Telegram">
             <i class="bi bi-telegram fs-5"></i>
           </a>
         </li>
       {% endif %}
-      <li class="nav-item py-2 py-lg-1 col-auto">
+      <li class="nav-item py-2 py-lg-1 col-auto d-none d-sm-block">
         <div class="vr d-flex h-100 mx-2 text-body-secondary opacity-50"></div>
       </li>
       <li class="nav-item dropdown">

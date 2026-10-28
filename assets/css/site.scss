@@ -21,7 +21,11 @@ $sidebar-top: 5rem;
 }
 
 .bd-gutter {
-  --bs-gutter-x: 3rem;
+  --bs-gutter-x: 2rem;
+
+  @media (min-width: 576px) {
+    --bs-gutter-x: 3rem;
+  }
 }
 
 // Navbar
