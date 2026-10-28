@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Nacionalidade Espanhola por opção"
+description: "Como pedir a nacionalidade espanhola por opção para filhos de pais espanhóis."
+section: nacionalidade
+last_updated: "Novembro de 2024"
 ---
-
-# Nacionalidade Espanhola por opção
-
-Última atualização: Novembro de 2024
 
 ## O que é?
 

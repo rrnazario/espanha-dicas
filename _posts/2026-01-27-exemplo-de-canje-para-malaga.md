@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Exemplo de Canje para Málaga"
+description: "Exemplo real, com telas, do agendamento do canje de permiso em Málaga."
+section: carteira-de-motorista
+last_updated: "Janeiro de 2026"
 ---
-
-# Exemplo de Canje para Málaga
-
-Última atualização: Janeiro de 2026
 
 ## 1. Solicitação de agendamento prévio (Almería, Málaga ou Sevilla)
 

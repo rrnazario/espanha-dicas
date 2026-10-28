@@ -1,0 +1,178 @@
+---
+---
+// Structural styles for the docs layout, modeled on the Bootstrap docs.
+// Visual polish (accent colors, callouts, dark mode tweaks) comes in phase 3.
+
+$sidebar-top: 5rem;
+
+.bd-gutter {
+  --bs-gutter-x: 3rem;
+}
+
+// Navbar
+.bd-navbar {
+  padding: .75rem 0;
+  background-color: var(--bs-body-bg);
+  border-bottom: 1px solid var(--bs-border-color-translucent);
+}
+
+// Page grid: sidebar | main
+.bd-layout {
+  @media (min-width: 992px) {
+    display: grid;
+    grid-template-areas: "sidebar main";
+    grid-template-columns: 1fr 5fr;
+    gap: 1.5rem;
+  }
+}
+
+.bd-sidebar {
+  grid-area: sidebar;
+
+  @media (min-width: 992px) {
+    position: sticky;
+    top: $sidebar-top;
+    display: block !important;
+    height: calc(100vh - 6rem);
+    padding-left: .25rem;
+    margin-left: -.25rem;
+    overflow-y: auto;
+  }
+}
+
+// Main grid: intro / content | toc
+.bd-main {
+  grid-area: main;
+
+  @media (min-width: 992px) {
+    display: grid;
+    grid-template-areas:
+      "intro toc"
+      "content toc";
+    grid-template-rows: auto 1fr;
+    grid-template-columns: 4fr 1fr;
+    gap: inherit;
+  }
+}
+
+.bd-intro { grid-area: intro; }
+.bd-content { grid-area: content; min-width: 1px; }
+
+.bd-toc {
+  grid-area: toc;
+
+  @media (min-width: 992px) {
+    position: sticky;
+    top: $sidebar-top;
+    right: 0;
+    z-index: 2;
+    height: calc(100vh - 7rem);
+    overflow-y: auto;
+  }
+}
+
+// Sidebar links
+.bd-links-heading {
+  color: var(--bs-emphasis-color);
+  padding: .25rem .5rem;
+  border: 0;
+  text-align: left;
+
+  .bd-links-chevron {
+    font-size: .75em;
+    transition: transform .2s ease;
+  }
+
+  &:not(.collapsed) .bd-links-chevron {
+    transform: rotate(90deg);
+  }
+}
+
+.bd-links-link {
+  padding: .1875rem .5rem;
+  margin-top: .125rem;
+  margin-left: 1.5rem;
+  color: var(--bs-body-color);
+  text-decoration: none;
+
+  &:hover,
+  &:focus,
+  &.active {
+    color: var(--bs-emphasis-color);
+    background-color: var(--bs-tertiary-bg);
+  }
+
+  &.active {
+    font-weight: 600;
+  }
+}
+
+// Content: keep long posts readable
+.bd-title {
+  font-size: calc(1.425rem + 1.5vw);
+
+  @media (min-width: 1200px) {
+    font-size: 2.5rem;
+  }
+}
+
+.bd-content {
+  > h2 { margin-top: 3rem; }
+  > h3 { margin-top: 2rem; }
+
+  > h2,
+  > h3 {
+    scroll-margin-top: $sidebar-top;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+  }
+
+  table {
+    width: 100%;
+    margin-bottom: 1rem;
+    display: block;
+    overflow-x: auto;
+
+    th,
+    td {
+      padding: .5rem;
+      border-bottom: 1px solid var(--bs-border-color);
+    }
+  }
+
+  blockquote {
+    padding: .75rem 1rem;
+    border-left: .25rem solid var(--bs-border-color);
+    color: var(--bs-secondary-color);
+  }
+
+  pre {
+    padding: 1rem;
+    background-color: var(--bs-tertiary-bg);
+    border-radius: var(--bs-border-radius);
+  }
+}
+
+// Home
+.bd-hero {
+  background-color: var(--bs-tertiary-bg);
+}
+
+.bd-hero-lead {
+  max-width: 42rem;
+
+  p:last-child { margin-bottom: 0; }
+}
+
+.bd-section-card {
+  transition: box-shadow .15s ease;
+
+  &:hover {
+    box-shadow: var(--bs-box-shadow-sm);
+  }
+}

@@ -1,7 +1,9 @@
-# Renovação de TIE
-
-Última atualização: Abril de 2026
-
+---
+layout: post
+title: "Renovação de TIE"
+description: "Documentos e passos para renovar o TIE."
+section: documentos
+last_updated: "Abril de 2026"
 ---
 
 O TIE (cartão) tem um prazo de expiração e, ao menos que a pessoa não precise mais dele (ex: obteve a nacionalidade), precisa ser renovado.

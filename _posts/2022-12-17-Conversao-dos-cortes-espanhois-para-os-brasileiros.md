@@ -1,10 +1,10 @@
 ---
 layout: post
+title: "Conversão dos cortes espanhóis para os brasileiros"
+description: "Equivalência entre os cortes de carne espanhóis e os brasileiros."
+section: dicas-gerais
+last_updated: "Dezembro de 2022"
 ---
-
-# Conversão dos cortes espanhóis para os brasileiros
-
-Última atualização: Dezembro de 2022
 
 ## Piezas Extra
 

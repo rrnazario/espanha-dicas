@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="bd-hero border-bottom py-5 mb-5">
+  <div class="container-xxl bd-gutter text-center">
+    <h1 class="display-5 fw-bold mb-3">{{ site.title }}</h1>
+    <div class="lead mx-auto bd-hero-lead">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<div class="container-xxl bd-gutter mb-5">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    {% for section in site.data.navigation.sections %}
+      {% assign section_posts = site.posts | where: "section", section.id | sort: "title" %}
+      {% if section_posts.size > 0 %}
+        <div class="col">
+          <div class="card h-100 bd-section-card">
+            <div class="card-body">
+              <h2 class="h5 card-title d-flex align-items-center gap-2 mb-3">
+                <i class="bi {{ section.icon }} text-primary"></i>{{ section.title }}
+              </h2>
+              <ul class="list-unstyled mb-0">
+                {% for post in section_posts %}
+                  <li class="mb-2">
+                    <a class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
