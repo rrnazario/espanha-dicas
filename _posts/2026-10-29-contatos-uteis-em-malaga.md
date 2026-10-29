@@ -22,15 +22,15 @@ Lista de contatos indicados pela comunidade em Málaga, organizada em ordem alfa
 
 | Serviço                | Nome     | Contato                                  | Nacionalidade                                     |
 | ---------------------- | -------- | ---------------------------------------- | ------------------------------------------------- |
-| Ar condicionado        | Ednilson | [+34 635 65 81 38](tel:+34635658138)     | {% include flag.html code="br" name="Brasil" %}    |
-| Fontanero (encanador)  | Daniel   | [+34 658 40 20 13](tel:+34658402013)     | {% include flag.html code="ar" name="Argentina" %} |
-| Lavavajillas (lava-louças) | Raúl | [+34 662 14 46 85](tel:+34662144685)     | {% include flag.html code="ar" name="Argentina" %} |
+| Ar condicionado        | Ednilson | [+34 635 65 81 38](https://wa.me/34635658138)     | {% include flag.html code="br" name="Brasil" %}    |
+| Fontanero (encanador)  | Daniel   | [+34 658 40 20 13](https://wa.me/34658402013)     | {% include flag.html code="ar" name="Argentina" %} |
+| Lavavajillas (lava-louças) | Raúl | [+34 662 14 46 85](https://wa.me/34662144685)     | {% include flag.html code="ar" name="Argentina" %} |
 
 ## Mercados
 
 | Serviço           | Nome          | Contato                                                                                           | Nacionalidade                                  |
 | ----------------- | ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Comida brasileira | Empório Brasil | [+34 613 34 75 53](tel:+34613347553)<br>[@emporiobrasilspain](https://instagram.com/emporiobrasilspain) | {% include flag.html code="br" name="Brasil" %} |
+| Comida brasileira | Empório Brasil | [+34 613 34 75 53](https://wa.me/34613347553)<br>[@emporiobrasilspain](https://instagram.com/emporiobrasilspain) | {% include flag.html code="br" name="Brasil" %} |
 
 ## Restaurantes
 
