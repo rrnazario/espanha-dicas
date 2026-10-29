@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contatos úteis em Málaga"
-description: "Índice de profissionais, serviços e restaurantes em Málaga, com telefone, links e nacionalidade."
+description: "Índice de profissionais, serviços, mercados e restaurantes em Málaga, com telefone, links e nacionalidade."
 section: dicas-gerais
 last_updated: "Outubro de 2026"
 ---
@@ -14,9 +14,9 @@ Lista de contatos indicados pela comunidade em Málaga, organizada em ordem alfa
 
 ## Assessorias
 
-| Serviço   | Nome           | Contato                                          | Nacionalidade                                  |
-| --------- | -------------- | ------------------------------------------------ | ---------------------------------------------- |
-| Imigração | Diário de Rolê | [diarioderole.com](https://www.diarioderole.com) | {% include flag.html code="br" name="Brasil" %} |
+| Serviço   | Nome           | Contato                                                                                                | Nacionalidade                                  |
+| --------- | -------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| Imigração | Diário de Rolê | [diarioderole.com](https://www.diarioderole.com)<br>[@diario.derole](https://instagram.com/diario.derole) | {% include flag.html code="br" name="Brasil" %} |
 
 ## Consertos
 
@@ -24,6 +24,13 @@ Lista de contatos indicados pela comunidade em Málaga, organizada em ordem alfa
 | ---------------------- | -------- | ---------------------------------------- | ------------------------------------------------- |
 | Ar condicionado        | Ednilson | [+34 635 65 81 38](tel:+34635658138)     | {% include flag.html code="br" name="Brasil" %}    |
 | Fontanero (encanador)  | Daniel   | [+34 658 40 20 13](tel:+34658402013)     | {% include flag.html code="ar" name="Argentina" %} |
+| Lavavajillas (lava-louças) | Raúl | [+34 662 14 46 85](tel:+34662144685)     | {% include flag.html code="ar" name="Argentina" %} |
+
+## Mercados
+
+| Serviço           | Nome          | Contato                                                                                           | Nacionalidade                                  |
+| ----------------- | ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Comida brasileira | Empório Brasil | [+34 613 34 75 53](tel:+34613347553)<br>[@emporiobrasilspain](https://instagram.com/emporiobrasilspain) | {% include flag.html code="br" name="Brasil" %} |
 
 ## Restaurantes
 
