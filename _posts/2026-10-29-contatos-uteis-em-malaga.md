@@ -25,7 +25,7 @@ Lista de contatos indicados pela comunidade em Málaga, organizada em ordem alfa
 | Ar condicionado        | Ednilson | [+34 635 65 81 38](https://wa.me/34635658138)     | {% include flag.html code="br" name="Brasil" %}    |
 | Fontanero (encanador)  | Daniel   | [+34 658 40 20 13](https://wa.me/34658402013)     | {% include flag.html code="ar" name="Argentina" %} |
 | Lavavajillas (lava-louças) | Raúl | [+34 662 14 46 85](https://wa.me/34662144685)     | {% include flag.html code="ar" name="Argentina" %} |
-| Pedreiro               | Alex     | [+34 622 86 34 16](https://wa.me/34622863416)     | {% include flag.html code="ar" name="Brasil" %} |
+| Pedreiro               | Alex     | [+34 622 86 34 16](https://wa.me/34622863416)     | {% include flag.html code="br" name="Brasil" %} |
 
 ## Mercados
 
