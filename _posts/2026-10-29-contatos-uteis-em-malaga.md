@@ -36,6 +36,8 @@ Lista de contatos indicados pela comunidade em Málaga, organizada em ordem alfa
 
 | Serviço        | Nome             | Contato                                                                          | Nacionalidade                                  |
 | -------------- | ---------------- | -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Comida caseira | Meninas Bar      | [@meninasbar_fuengirola](https://instagram.com/meninasbar_fuengirola)            | {% include flag.html code="br" name="Brasil" %} |
 | Comida caseira | Mi Casita        | [@mi_casita_bar_cafeteria](https://instagram.com/mi_casita_bar_cafeteria)        | {% include flag.html code="br" name="Brasil" %} |
+| Comida caseira | Miss Kroquetas   | [@miss_kroketas](https://instagram.com/miss_kroketas)                            | {% include flag.html code="br" name="Brasil" %} |
 | Hamburgueria   | Bandido Burguers | [@bandidoburguerss](https://instagram.com/bandidoburguerss)                      | {% include flag.html code="br" name="Brasil" %} |
 | Pizzaria       | Pizza Garden     | [@garden_pizzaria](https://instagram.com/garden_pizzaria)                        | {% include flag.html code="br" name="Brasil" %} |
